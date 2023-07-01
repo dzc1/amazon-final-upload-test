@@ -1,4 +1,4 @@
-start here
+https://readme.so/
 
 ## Supabase
 
