@@ -14,6 +14,10 @@ https://www.readme-templates.com/
 
 #### Martes - 04/07/23
 
+- Crear funcion de signIn - WIP === Work In Progress
+- Crear funcion de signIn - Doing
+- Crear funcion de signIn - DONE ✅
+
 #### Jueves - 06/07/23
 
 #### Sabado - 08/07/23
