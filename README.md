@@ -5,7 +5,7 @@ https://www.readme-templates.com/
 
 ### Backlog
 
-- Crear funcion de signIn
+- ~~Crear funcion de signIn~~
 - Buscar como funcionan los metodos de supabase
 - Estudiar tienda de tarea
 - Estudiar tienda de usuario
