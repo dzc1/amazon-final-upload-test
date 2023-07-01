@@ -3,6 +3,13 @@ https://www.readme-templates.com/
 
 # Proyect Tracking
 
+### Backlog
+
+- Crear funcion de signIn
+- Buscar como funcionan los metodos de supabase
+- Estudiar tienda de tarea
+- Estudiar tienda de usuario
+
 ### Semana 1
 
 #### Martes - 04/07/23
